@@ -1,4 +1,4 @@
-# restaurant order analysis
+# Restaurant order analysis
 Welcome to our Restaurant Order Analysis presentation. This analysis leverages MySQL to provide insights into customer ordering patterns, popular menu items, and overall sales performance.
 
 # Objectives
